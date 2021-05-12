@@ -1,11 +1,9 @@
-﻿using System;
+﻿using Estudo_Macoratti.Data;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Estudo_Macoratti.Data;
 
 namespace Estudo_Macoratti.Controllers
 {
